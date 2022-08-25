@@ -1,0 +1,6 @@
+//I customized the "firstEnemy"'s name to "Outer Heaven Soldier"
+//I made it to where the narrator's and the player's texts are different colors.
+//I made it to where action 1 performs an attack move which allows you to silently stun an enemy (part of an unfinished stealth system.)
+//I made it where action 2 performs a burst fire rifle attack, which deals large amounts of damage, but alerts nearby enemies to your prescence (part of an unfinished stealth system.)
+//I customized the game completion text.
+//I customized the game loop.
